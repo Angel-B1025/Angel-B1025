@@ -1,5 +1,5 @@
 # Hi, I'm Bridgette Ann Pradeep
-### Cloud & AWS Enthusiast | 🎓 MCA Student
+### Cloud & AWS Enthusiast | MCA Student
 
 ### About Me 
 
