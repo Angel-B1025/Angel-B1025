@@ -9,7 +9,8 @@ I’m an aspiring Cloud and Cybersecurity professional with a strong interest in
 ### 🛠️ Tech Stack
 - ☁️ Cloud: AWS, Amazon EC2, Amazon VPC, Amazon S3, IAM, EBS, AMI, RDS, Lambda, CloudFront
 - 🌐 Networking: VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, NACLs, VPN, Bastion Host, IPv4, CIDR
-- 🔐 Cybersecurity: Cloud Security, Network Security, IAM & Access Control, Security Groups, NACLs, Encryption, Secure VPC Architecture
+- 🔐 Cybersecurity: Cloud Security, Network Security, IAM & Access Control, Security Groups, NACLs, Encryption,
+      Secure VPC Architecture
 - ⚙️ DevOps & Tools: Git, GitHub, Git Bash, Docker, CI/CD, AWS CodeDeploy, VS Code, Linux
 - 💻 Programming: Java, HTML5, CSS3, JavaScript, SQL
 - 🖥️ Operating Systems: Linux, Windows
