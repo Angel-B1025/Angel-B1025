@@ -1,15 +1,15 @@
 # Hi, I'm Bridgette Ann Pradeep
-### Cloud & AWS Enthusiast | 🔐 Cybersecurity Learner | 🎓 MCA Student
+### Cloud & AWS Enthusiast | 🎓 MCA Student
 
 ### About Me 
 
-I’m an aspiring Cloud and Cybersecurity professional with a strong interest in AWS Cloud Computing, Cloud Security, Networking, and DevOps. I enjoy building hands-on cloud projects, learning through practical implementation, and exploring how secure and scalable cloud infrastructure can be designed. I’m continuously improving my technical skills through AWS projects, cybersecurity learning, cloud networking, and real-world practicals.
+I’m an aspiring Cloud professional with a strong interest in AWS Cloud Computing, Cloud Security, Networking, and DevOps. I enjoy building hands-on cloud projects, learning through practical implementation, and exploring how secure and scalable cloud infrastructure can be designed. I’m continuously improving my technical skills through AWS projects, cloud networking, and real-world practicals.
 
 ---
 ### 🛠️ Tech Stack
 - ☁️ Cloud: AWS, Amazon EC2, Amazon VPC, Amazon S3, IAM, EBS, AMI, RDS, Lambda, CloudFront
 - 🌐 Networking: VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, NACLs, VPN, Bastion Host, IPv4, CIDR
-- 🔐 Cybersecurity: Cloud Security, Network Security, IAM & Access Control, Security Groups, NACLs, Encryption,
+- 🔐 Cloudsecurity: Cloud Security, Network Security, IAM & Access Control, Security Groups, NACLs, Encryption,
       Secure VPC Architecture
 - ⚙️ DevOps & Tools: Git, GitHub, Git Bash, Docker, CI/CD, AWS CodeDeploy, VS Code, Linux
 - 💻 Programming: Java, HTML5, CSS3, JavaScript, SQL
@@ -44,11 +44,11 @@ I’m an aspiring Cloud and Cybersecurity professional with a strong interest in
 ### 🤝 Looking to Collaborate On
 - ☁️ AWS Cloud projects
 - 🔐 Cloud security projects
-- 🛡️ Cybersecurity projects
+- 🛡️ Cloudsecurity projects
 - 🔒 Secure cloud infrastructure
 - ⚙️ DevOps & CI/CD projects
 - 🌐 Open-source cloud and security tools
-- 📚 Research-oriented projects in Cloud & Cybersecurity
+- 📚 Research-oriented projects in Cloud
 
 ---
 ### 📫 How to Reach Me
@@ -60,7 +60,7 @@ I’m an aspiring Cloud and Cybersecurity professional with a strong interest in
 ---
 ### 😄 Fun Fact
 
-I enjoy learning new technologies by actually building and experimenting with them, especially when it comes to AWS, cloud infrastructure, and cybersecurity.
+I enjoy learning new technologies by actually building and experimenting with them, especially when it comes to AWS & cloud infrastructure.
 
 ---
 ### ⭐ "Learning, building, securing, and growing."
